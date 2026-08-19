@@ -48,12 +48,17 @@ I used a bit of both onshape and fusion360. But here is image from onsahpe.
 <img width="1293" height="631" alt="cad" src="https://github.com/user-attachments/assets/59f41a05-8468-4905-852a-83aeca705ab2" />
 
 **BOM**
-Part	Quantity
-Seeed Studio XIAO RP2040	1
-Push-button switches	5
-EC11 rotary encoder (w/ push switch)	1
-0.91" I2C OLED display (SSD1306-compatible)	1
-Custom PCB	1
-USB-C cable	1
+
+| Part | Quantity | Unit Price | Total Price | Notes |
+|---|---:|---:|---:|---|
+| Seeed Studio XIAO RP2040 | 1 | $3.99 | $3.99 | |
+| Push-button switches | 5 | $0.40 | $2.00 | |
+| EC11 rotary encoder w/ push switch | 1 | $0.50 | $0.50 | |
+| 0.91 inch I2C OLED display (SSD1306-compatible) | 1 | $3.90 | $3.90 | |
+| Custom PCB | 1 | $2.50 | $2.50 | Plus shipping |
+| USB-C cable | 1 | $6.00 | $6.00 | |
+| Soldering kit and tools | 1 | $35.95 | $35.95 | Only if needed |
+| **Project Total without soldering kit** | | | **$18.89** | |
+| **Project Total with soldering kit** | | | **$54.84** | |
 
 Onshape Link: https://cad.onshape.com/documents/0aff6fe35f9510e6fa8828e8/w/31160d7811d510a2e4875360/e/bf4022f82584262410f6731b?renderMode=0&uiState=6a84e180170a3f3dd4365e20
