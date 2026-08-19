@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Raiyan",
+    "keyboard_name": "custom_macropad",
+    "maintainer": "Raiyan",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "nkro": true,
+        "encoder": true,
+        "oled": true
+    },
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0001",
+        "device_version": "1.0.0"
+    },
+    "matrix_pins": {
+        "direct": [
+            ["GP26", "GP27", "GP28"],
+            ["GP29", "GP0", "GP4"]
+        ]
+    },
+    "encoder": {
+        "rotary": [
+            {"pin_a": "GP3", "pin_b": "GP1"}
+        ]
+    },
+    "processor": "RP2040",
+    "board": "GENERIC_PROMICRO_RP2040",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 0},
+                {"matrix": [0, 2], "x": 2, "y": 0},
+                {"matrix": [1, 0], "x": 0, "y": 1},
+                {"matrix": [1, 1], "x": 1, "y": 1},
+                {"matrix": [1, 2], "x": 2, "y": 1, "label": "Encoder push"}
+            ]
+        }
+    }
+}
