@@ -14,7 +14,7 @@ Here’s what the main folders and files are for:
 
 CAD/ — 3D-printable case files and PCB/case models.  
 PCB/ — KiCad project files, including the schematic, PCB layout, and project settings.  
-PROD/ — Production-ready files, including the Gerbers and the compiled QMK firmware .uf2 file.  
+PROD/ — Production-ready files, everything you need without needing to look through any of the source material, including the Gerbers, top and bottom 3d printable casefiles, and the compiled QMK firmware .uf2 file.  
 projectdev images/ — Photos and images showing the PCB and CAD during development.  
 BOM.csv — Bill of materials with the components and estimated prices.  
 
