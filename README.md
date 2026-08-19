@@ -29,7 +29,7 @@ Copy the .uf2 firmware file from PROD/ onto the RPI-RP2 drive.
 The board will automatically restart and load the firmware.  
 Once it restarts, the macropad is ready to use.  
 
-The firmware configures the five push buttons, rotary encoder, encoder push switch, and OLED according to the pin mapping documented below.  
+The firmware configures the five push buttons, rotary encoder, encoder push switch, and OLED according to the pin mapping documented below. Default behavior includes common shortcuts like copy and paste. 
 
 ---
 **Schematic**
