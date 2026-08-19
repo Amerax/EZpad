@@ -12,24 +12,24 @@ Firmware is custom made persoanlly built.
 **Guide to repo and firmware**
 Here’s what the main folders and files are for:
 
-CAD/ — 3D-printable case files and PCB/case models.
-PCB/ — KiCad project files, including the schematic, PCB layout, and project settings.
-PROD/ — Production-ready files, including the Gerbers and the compiled QMK firmware .uf2 file.
-projectdev images/ — Photos and images showing the PCB and CAD during development.
-BOM.csv — Bill of materials with the components and estimated prices.
+CAD/ — 3D-printable case files and PCB/case models.  
+PCB/ — KiCad project files, including the schematic, PCB layout, and project settings.  
+PROD/ — Production-ready files, including the Gerbers and the compiled QMK firmware .uf2 file.  
+projectdev images/ — Photos and images showing the PCB and CAD during development.  
+BOM.csv — Bill of materials with the components and estimated prices.  
 
-Using the Firmware:
+Using the Firmware:  
 
-The firmware is built with QMK and is provided as a .uf2 file in the PROD/ folder.
+The firmware is built with QMK and is provided as a .uf2 file in the PROD/ folder.  
+  
+Connect the XIAO RP2040 to your computer with USB-C.  
+Put the XIAO RP2040 into bootloader mode by double-pressing the reset button.  
+A drive called RPI-RP2 should appear on your computer.  
+Copy the .uf2 firmware file from PROD/ onto the RPI-RP2 drive.  
+The board will automatically restart and load the firmware.  
+Once it restarts, the macropad is ready to use.  
 
-Connect the XIAO RP2040 to your computer with USB-C.
-Put the XIAO RP2040 into bootloader mode by double-pressing the reset button.
-A drive called RPI-RP2 should appear on your computer.
-Copy the .uf2 firmware file from PROD/ onto the RPI-RP2 drive.
-The board will automatically restart and load the firmware.
-Once it restarts, the macropad is ready to use.
-
-The firmware configures the five push buttons, rotary encoder, encoder push switch, and OLED according to the pin mapping documented below.
+The firmware configures the five push buttons, rotary encoder, encoder push switch, and OLED according to the pin mapping documented below.  
 
 ---
 **Schematic**
