@@ -1,1 +1,37 @@
 # EZpad
+
+A compact productivity macropad built around the Seeed Studio XIAO RP2040. The project includes a custom PCB designed in KiCad and QMK firmware, with 6 keys and a rotary encoder for everyday shortcuts like copy, paste, plus volume control and an OLED status display.
+
+**Features:**
+5 push-button keys + 1 rotary encoder with integrated push switch (6 keys total), wired direct-pin (no matrix). Not having matrix makes it much simpler and easy. 
+Rotary encoder controls system volume 
+0.91" I2C OLED display (SSD1306-compatible) for status.
+Firmware built on QMK, running on a Seeed Studio XIAO RP2040.
+Firmware is custom made persoanlly built. 
+
+---
+**Schematic**
+The KiCad schematic shows the XIAO RP2040 connected directly to five push buttons and a rotary encoder using GPIO pins, plus an I2C-connected OLED display.
+I made this all myself for the first time ever,
+My very own first schema 
+
+<img width="1075" height="632" alt="schema" src="https://github.com/user-attachments/assets/d28ce478-f79c-4dab-b714-52cfa50ca3da" />
+
+**PCB**
+Same to be said about the pcb. It is quite simple enough, not as many traces as a motherboard haha. 
+<img width="733" height="654" alt="pcb" src="https://github.com/user-attachments/assets/5db942be-8adc-42fa-a76f-fbe3c3af5ef3" />
+
+**Cad**
+I used a bit of both onshape and fusion360. But here is image from onsahpe. 
+<img width="1293" height="631" alt="cad" src="https://github.com/user-attachments/assets/59f41a05-8468-4905-852a-83aeca705ab2" />
+
+**BOM**
+Part	Quantity
+Seeed Studio XIAO RP2040	1
+Push-button switches	5
+EC11 rotary encoder (w/ push switch)	1
+0.91" I2C OLED display (SSD1306-compatible)	1
+Custom PCB	1
+USB-C cable	1
+
+Onshape Link: https://cad.onshape.com/documents/0aff6fe35f9510e6fa8828e8/w/31160d7811d510a2e4875360/e/bf4022f82584262410f6731b?renderMode=0&uiState=6a84e180170a3f3dd4365e20
