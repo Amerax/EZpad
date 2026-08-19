@@ -9,8 +9,8 @@ Rotary encoder controls system volume
 Firmware built on QMK, running on a Seeed Studio XIAO RP2040.
 Firmware is custom made persoanlly built. 
 
-**Guide to repo and firmware**
-Here’s what the main folders and files are for:
+**Guide to repo and firmware**  
+Here’s what the main folders and files are for:  
 
 CAD/ — 3D-printable case files and PCB/case models.  
 PCB/ — KiCad project files, including the schematic, PCB layout, and project settings.  
