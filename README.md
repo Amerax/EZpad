@@ -52,13 +52,13 @@ I used a bit of both onshape and fusion360. But here is image from onsahpe.
 | Part | Quantity | Unit Price | Total Price | Notes |
 |---|---:|---:|---:|---|
 | Seeed Studio XIAO RP2040 | 1 | $17.00 | $17.00 | |
-| Push-button switches | 5 | $0.40 | $2.00 | |
+| Cherry MX switches (25-pack) | 1 pack | $6.00 | $6.00 | 25 switches |
 | EC11 rotary encoder w/ push switch | 1 | $0.50 | $0.50 | |
 | 0.91 inch I2C OLED display (SSD1306-compatible) | 1 | $3.90 | $3.90 | |
 | Custom PCB | 1 | $2.50 | $2.50 | Plus shipping |
 | USB-C cable | 1 | $6.00 | $6.00 | |
 | Soldering kit and tools, flux, solder | 1 | $35.95 | $35.95 | Only if needed |
-| **Project Total without soldering kit** | | | **$31.90** | |
-| **Project Total with soldering kit** | | | **$67.85** | |
+| **Project Total without soldering kit** | | | **$35.90** | |
+| **Project Total with soldering kit** | | | **$71.85** | |
 
 Onshape Link: https://cad.onshape.com/documents/0aff6fe35f9510e6fa8828e8/w/31160d7811d510a2e4875360/e/bf4022f82584262410f6731b?renderMode=0&uiState=6a84e180170a3f3dd4365e20
