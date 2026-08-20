@@ -18,6 +18,8 @@ PROD/ — Production-ready files, everything you need without needing to look th
 projectdev images/ — Photos and images showing the PCB and CAD during development.  
 BOM.csv — Bill of materials with the components and estimated prices.  
 
+Note: prod only contains the .stl files to 3d print the top and bottom of the case. Whereas the CAD/ contains this as well along with .step files and the full case in one .stl and .step file. 
+
 Using the Firmware:  
 
 The firmware is built with QMK and is provided as a .uf2 file in the PROD/ folder.  
