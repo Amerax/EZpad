@@ -57,7 +57,7 @@ I used a bit of both onshape and fusion360. But here is image from onsahpe.
 | 0.91 inch I2C OLED display (SSD1306-compatible) | 1 | $3.90 | $3.90 | |
 | Custom PCB | 1 | $2.50 | $2.50 | Plus shipping |
 | USB-C cable | 1 | $6.00 | $6.00 | |
-| Soldering kit and tools | 1 | $35.95 | $35.95 | Only if needed |
+| Soldering kit and tools, flux, solder | 1 | $35.95 | $35.95 | Only if needed |
 | **Project Total without soldering kit** | | | **$31.90** | |
 | **Project Total with soldering kit** | | | **$67.85** | |
 
