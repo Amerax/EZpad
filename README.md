@@ -51,16 +51,15 @@ I used a bit of both onshape and fusion360. But here is image from onsahpe.
 
 **BOM**
 
-| Part | Quantity | Unit Price | Total Price | Notes |
-|---|---:|---:|---:|---|
-| Seeed Studio XIAO RP2040 | 1 | $17.00 | $17.00 | |
-| Cherry MX switches (25-pack) | 1 pack | $6.00 | $6.00 | 25 switches |
-| EC11 rotary encoder w/ push switch | 1 | $0.50 | $0.50 | |
-| 0.91 inch I2C OLED display (SSD1306-compatible) | 1 | $3.90 | $3.90 | |
-| Custom PCB | 1 | $2.50 | $2.50 | Plus shipping |
-| USB-C cable | 1 | $6.00 | $6.00 | |
-| Soldering kit and tools, flux, solder | 1 | $35.95 | $35.95 | Only if needed |
-| **Project Total without soldering kit** | | | **$35.90** | |
-| **Project Total with soldering kit** | | | **$71.85** | |
+| Part | Quantity | Unit Price | Total Price | Notes | Link |
+| :--- | :---: | :---: | :---: | :--- | :--- |
+| Seeed Studio XIAO RP2040 | 1 | $9.99 | $9.99 | | [Link](https://a.co/d/0a7B1Rnf) |
+| 50 Pcs Blue Keyboard Switches | 1 | $7.99 | $7.99 | 50 switches | [Link](https://a.co/d/0aDLy4u2) |
+| EC11 rotary encoder w/ push switch | 1 | $8.88 | $8.88 | | [Link](https://a.co/d/05H0bLwq) |
+| 0.91 inch I2C OLED display (SSD1306-compatible) | 1 | $9.99 | $9.99 | | [Link](https://a.co/d/02lNH8EQ) |
+| Custom PCB | 1 | $2.50 | $2.50 | Plus shipping | |
+| Soldering kit and tools, flux, solder | 1 | $13.99 | $13.99 | Only if needed | [Link](https://a.co/d/0jlPiiRH) |
+| **Project Total without soldering kit** | | | **$45.35** | | |
+| **Project Total with soldering kit** | | | **$59.34** | | |
 
 Onshape Link: https://cad.onshape.com/documents/0aff6fe35f9510e6fa8828e8/w/31160d7811d510a2e4875360/e/bf4022f82584262410f6731b?renderMode=0&uiState=6a84e180170a3f3dd4365e20
